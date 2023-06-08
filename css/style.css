@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.aizawa {
+  background-color: pink;
+}
+
+.test .aizawa{
+  /* 正しい書き方 */
+}
